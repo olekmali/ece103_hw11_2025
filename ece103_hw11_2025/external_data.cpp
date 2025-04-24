@@ -10,5 +10,5 @@ char nickname_list[25][50] = {
 
 
 //*** I suggest that you do not modify below ***
-    "CloroxFlavoredRiceCakes" // the last entry and all potential remaining entires are empty strings
+    "BatteryAcid" // the last entry and all potential remaining entires are empty strings
 };
