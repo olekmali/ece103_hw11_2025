@@ -8,7 +8,7 @@ char nickname_list[25][50] = {
 //*** I suggest that you do not modify above ***
 
 //*** Lord_Chevan_is_cool ***
-
+//*** I am still cool ***
 //*** I suggest that you do not modify below ***
     "" // the last entry and all potential remaining entires are empty strings
 };
