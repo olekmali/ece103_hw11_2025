@@ -27,10 +27,10 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="external_data.h">
-      <Filter>Source Files</Filter>
+      <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="process_data.h">
-      <Filter>Source Files</Filter>
+      <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
