@@ -4,16 +4,12 @@
 #include "external_data.h"
 
 char nickname_list[25][50] = {
-    "Dr. Mali*", 
+    "Dr. Mali*",
+    "Crows19", 
 //*** I suggest that you do not modify above ***
 
 
 
 //*** I suggest that you do not modify below ***
     "" // the last entry and all potential remaining entires are empty strings
-};
-
-char nickname[25][50] = {
-    "HyrdroMouse",
-   
 };
