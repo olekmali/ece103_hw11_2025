@@ -12,3 +12,8 @@ char nickname_list[25][50] = {
 //*** I suggest that you do not modify below ***
     "" // the last entry and all potential remaining entires are empty strings
 };
+
+char nickname[25][50] = {
+    "HyrdroMouse",
+   
+};
