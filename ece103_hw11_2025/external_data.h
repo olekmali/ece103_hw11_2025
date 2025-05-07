@@ -6,8 +6,8 @@
 #ifndef _external_data_h
 #define _external_data_h
 
-constexpr char homework_version[] = "3.14.2";
-// This is the version of the homework project was last time updated on May 5, 2025
+constexpr char homework_version[] = "3.15";
+// This is the version of the homework project was last time updated on May 7, 2025
 
 // The instrctor will do his best to update this file every day until the assignment is due.
 
