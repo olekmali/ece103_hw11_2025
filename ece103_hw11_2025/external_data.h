@@ -15,6 +15,10 @@ constexpr char homework_version[] = "3.17";
 // Do not modify this file. You will rebase your project to get updated 
 // versions of this file as a part of the homework exercise.
 
+/*
+ simulating Dr. Malinowski - added by Patrick Duran.
+ */
+
 extern char nickname_list[25][50];
 
 #endif
